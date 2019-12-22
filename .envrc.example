@@ -3,5 +3,4 @@ export AWS_SECRET_ACCESS_KEY=''
 
 export HEALTH_CLIENT_ID=''
 export HEALTH_CLIENT_SECRET=''
-export HEALTH_CODE=''
 export HEALTH_ACCESS_TOKEN=''

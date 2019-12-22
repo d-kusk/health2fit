@@ -1,5 +1,11 @@
 # health2fit
 
 ```
-$ serverless deploy -v
+$ sls deploy -v
+```
+
+## test
+
+```
+$ sls invoke local --function FUNCTION_NAME
 ```
